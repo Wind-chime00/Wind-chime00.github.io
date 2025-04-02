@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.junheblog.com/personal/about/index.html</loc>
+    
+    <lastmod>2025-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.junheblog.com/categories/index.html</loc>
     
     <lastmod>2025-04-01</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://www.junheblog.com/box/nav/index.html</loc>
     
     <lastmod>2025-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.junheblog.com/personal/about/index.html</loc>
-    
-    <lastmod>2025-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
