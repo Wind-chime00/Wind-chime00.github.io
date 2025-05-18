@@ -6658,9 +6658,9 @@ div#archive {
 }
 
 /* 头图隐藏 */
-#page-header {
+/*#page-header {
   background: transparent !important;
-}
+}*/
 /* 夜间模式页脚遮罩隐藏 */
 [data-theme="dark"] #footer::before {
   background: transparent !important;
@@ -9397,6 +9397,43 @@ hr:before {
 .github-badge img:hover {
   scale: 1.05;
   transition: all 0.3s ease-in-out;
+}
+
+
+/* 覆盖 .admonition.note.warning 的默认样式 */
+.admonition.note.warning.modern {
+  background: #fff7f0 !important;            /* 柔和奶油色背景 */
+  border-left: 6px solid #ff6f91 !important; /* 粉色霓虹边框 */
+  border-radius: 10px !important;           
+  padding: 20px 24px !important;            
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05) !important;
+  color: #333 !important;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
+  line-height: 1.6 !important;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 左上角加一个半透明的魔法水晶球（Emoji 只是示例） */
+.admonition.note.warning.modern .note-icon::before {
+  content: "🔮";
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-size: 2.5rem;
+  opacity: 0.15;
+}
+
+/* 高亮标题文字和链接 */
+.admonition.note.warning.modern b,
+.admonition.note.warning.modern strong,
+.admonition.note.warning.modern a {
+  color: #ff6f91 !important;
+  text-shadow: 0 0 6px rgba(255,111,145,0.7);
+}
+.admonition.note.warning.modern a:hover {
+  text-shadow: 0 0 12px rgba(255,111,145,1);
+  text-decoration: underline;
 }
 
 .search-dialog {
