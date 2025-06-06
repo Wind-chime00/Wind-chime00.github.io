@@ -4,16 +4,16 @@
   <url>
     <loc>https://www.junheblog.com/Game/Glimmer/index.html</loc>
     
-    <lastmod>2025-05-25</lastmod>
+    <lastmod>2025-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.junheblog.com/personal/love/index.html</loc>
+    <loc>https://www.junheblog.com/Game/Detective/index.html</loc>
     
-    <lastmod>2025-05-25</lastmod>
+    <lastmod>2025-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,14 +22,14 @@
   <url>
     <loc>https://www.junheblog.com/Game/Jail/index.html</loc>
     
-    <lastmod>2025-05-25</lastmod>
+    <lastmod>2025-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.junheblog.com/Game/Detective/index.html</loc>
+    <loc>https://www.junheblog.com/personal/love/index.html</loc>
     
     <lastmod>2025-05-25</lastmod>
     
@@ -184,7 +184,7 @@
 
   <url>
     <loc>https://www.junheblog.com/</loc>
-    <lastmod>2025-05-25</lastmod>
+    <lastmod>2025-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
